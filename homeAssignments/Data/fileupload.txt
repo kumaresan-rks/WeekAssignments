@@ -1,0 +1,3 @@
+let companyName='Accelarated'
+console.log(companyName);
+console.log(typeof companyName);
